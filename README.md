@@ -36,6 +36,4 @@ javac ArreglosMetodos.java && java ArreglosMetodos
 javac POO/*.java && java POO.Main
 ```
 
-## Autora
 
-[Angelykcoder](https://github.com/Angelykcoder)
